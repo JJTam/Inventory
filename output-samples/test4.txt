@@ -1,0 +1,11 @@
+
+Wow, so happy to work on a programming assignment again! Yes Yes YES! Let's play with inventories this time! ^_____^
+
+===============================
+{"Apple":10,"Banana":20,"Orange":15}
+===============================
+{"Banana":5,"Orange":20,"Grape":30}
+===============================
+Union:
+{"Apple":10,"Banana":20,"Orange":20,"Grape":30}
+===============================

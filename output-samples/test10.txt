@@ -1,0 +1,67 @@
+
+Wow, so happy to work on a programming assignment again! Yes Yes YES! Let's play with inventories this time! ^_____^
+
+===============================
+Let's do some tests on the Item class first.
+I have 3 cookies!
+Give me 2 more!
+Now I have 5 cookies!
+Take 4 away from me... result=true
+Now I have 1 cookie left...
+Try to take 4 more away from me... result=false
+Now I have 1 cookie left...
+===============================
+OK, now we really play with the inventories!
+Empty inventory:
+{}
+===============================
+Add 3 fruits:
+{"Apple":10,"Banana":20,"Orange":15}
+===============================
+By the way, when we grade your work, we also check if the item indices are correct:
+Apple's index = 0
+Banana's index = 1
+Orange's index = 2
+Grape's index = -1
+===============================
+Anyway, let's make another inventory:
+{"Banana":5,"Orange":20,"Grape":30}
+===============================
+Union:
+{"Apple":10,"Banana":20,"Orange":20,"Grape":30}
+===============================
+Intersection:
+{"Banana":5,"Orange":15}
+===============================
+Difference:
+{"Apple":10,"Banana":15}
+===============================
+Now let's add b and a together:
+a:
+{"Apple":10,"Banana":20,"Orange":15}
+b:
+{"Banana":25,"Orange":35,"Grape":30,"Apple":10}
+===============================
+Remove some bananas from a:
+result=true
+{"Apple":10,"Banana":12,"Orange":15}
+===============================
+Remove too many bananas:
+result=false
+{"Apple":10,"Banana":12,"Orange":15}
+===============================
+Remove all bananas:
+result=true
+{"Apple":10,"Orange":15}
+===============================
+Deep copied inventories:
+{"Apple":110,"Orange":15}
+{"Apple":10,"Orange":15}
+copy1's total used space = 125
+run copy1->emptyInventory()...
+copy1's total used space = 0
+===============================
+Say goodbye to memory leak! :)
+===============================
+
+Had enough fun with inventories... Peace! ;)

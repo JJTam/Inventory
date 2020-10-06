@@ -1,0 +1,18 @@
+
+Wow, so happy to work on a programming assignment again! Yes Yes YES! Let's play with inventories this time! ^_____^
+
+===============================
+{"Apple":10,"Banana":20,"Orange":15}
+===============================
+Remove some bananas from a:
+result=true
+{"Apple":10,"Banana":12,"Orange":15}
+===============================
+Remove too many bananas:
+result=false
+{"Apple":10,"Banana":12,"Orange":15}
+===============================
+Remove all bananas:
+result=true
+{"Apple":10,"Orange":15}
+===============================

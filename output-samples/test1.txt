@@ -1,0 +1,17 @@
+
+Wow, so happy to work on a programming assignment again! Yes Yes YES! Let's play with inventories this time! ^_____^
+
+===============================
+Let's do some tests on the Item class first.
+I have 3 cookies!
+Give me 2 more!
+Now I have 5 cookies!
+Take 4 away from me... result=true
+Now I have 1 cookie left... T_T
+Try to take 4 more away from me... result=false
+Now I have 1 cookie left... T_T
+===============================
+OK, now we really play with the inventories!
+Empty inventory:
+{}
+===============================

@@ -1,0 +1,15 @@
+
+Wow, so happy to work on a programming assignment again! Yes Yes YES! Let's play with inventories this time! ^_____^
+
+===============================
+{"Apple":10,"Banana":20,"Orange":15}
+===============================
+Deep copied inventories:
+{"Apple":110,"Banana":20,"Orange":15}
+{"Apple":10,"Banana":20,"Orange":15}
+copy1's total used space = 145
+run copy1->emptyInventory()...
+copy1's total used space = 0
+===============================
+Say goodbye to memory leak! :)
+===============================

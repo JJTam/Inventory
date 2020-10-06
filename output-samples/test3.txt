@@ -1,0 +1,10 @@
+
+Wow, so happy to work on a programming assignment again! Yes Yes YES! Let's play with inventories this time! ^_____^
+
+===============================
+Add 3 fruits:
+Apple's index = 0
+Banana's index = 1
+Orange's index = 2
+Grape's index = -1
+===============================
